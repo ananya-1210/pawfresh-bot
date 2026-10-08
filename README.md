@@ -1,4 +1,6 @@
 # PawFresh Chat Automation — Python backend
+https://pawfresh-4sgo25ru1-ananya-1210.vercel.app/
+
 
 A real Python backend for the PawFresh customer-service bot: a rule-based
 engine (`bot_engine.py`) plus two ways to talk to it — a browser chat demo
@@ -102,3 +104,5 @@ The one part of the system with a genuine running cost is swapping the
 pattern-matching in `_match_intent()` for a language model call, which
 lets the bot understand phrasing it hasn't been explicitly written for.
 That's a deliberate later step, not something this version needs.
+
+
